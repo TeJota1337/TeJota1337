@@ -12,8 +12,8 @@
 
  That's it.
 
- ## Portfolio
-
- ## Games
-
- ## Buzz
+ # Portfolio
+ https://tejota.notion.site/Ol-Tudo-bem-152e13a0197280249839f778687e8029
+ 
+ # Games
+ https://tejota.itch.io/
