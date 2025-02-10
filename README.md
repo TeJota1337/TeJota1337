@@ -4,13 +4,11 @@
 > Jumping of my problems, maybe I can jump happy someday...
 
 ## About me
-My name is Tiago, but please call me "TJ".
-I'm a UX Game Designer and I am currently working for a XR development center in PUCPR.
-We are making a lot of changes in how the education is done and I am really proud of it.
+Greetings, adventurer! My name is Tiago, though you may call me "TJ". I am a proud UX Game Designer, currently embarking on an epic quest at PUCPR, where we’re reshaping the very foundations of how knowledge (and magic, maybe...) is wielded. The progress we’re making fills my heart with pride—this journey is one for the books.
 
-Here you will see some of my personal projects, nothing really special but everything is made with heart.
+In this place, you’ll find a collection of my personal projects. They may seem humble, but each one is forged with passion and dedication, like a finely crafted sword.
 
-That's it.
+May your path be full of treasures and triumphs!
 
 ## Portfolio
 https://tejota.notion.site/Ol-Tudo-bem-152e13a0197280249839f778687e8029
