@@ -1,4 +1,4 @@
-## Hi there 👋
+## Aloha! 👋
 
 ![dino](https://github.com/user-attachments/assets/066a4a13-0e30-46fe-a438-98848083ad8f)
 > Jumping of my problems, maybe I can jump happy someday...
