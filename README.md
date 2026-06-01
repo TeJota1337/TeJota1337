@@ -1,4 +1,4 @@
-# Aloha! 👋
+# Hi 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeJota1337/TeJota1337/output/pacman-contribution-graph-dark.svg">
