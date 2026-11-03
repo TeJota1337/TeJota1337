@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Typing text" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=620&lines=Press+START+to+continue...;Bringing+clarity+and+fun+to+games;IxD+%2F+UI+%2F+UX+Game+Designer;Click+a+square+below+to+play!">
+  <img alt="Typing text" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=B24BF3&center=true&vCenter=true&width=620&lines=Press+START+to+continue...;Bringing+clarity+and+fun+to+games;IxD+%2F+UI+%2F+UX+Game+Designer">
 </p>
 
 <p align="center">
@@ -51,35 +51,6 @@ I am an IxD/UI/UX Game Designer and my main focus is to bring clarity and fun to
     </tr>
   </table>
 </details>
-
-## ⭕ Play tic-tac-toe with me!
-<!-- TTT:START -->
-<p align="center">You are <b>❌</b>, my bot is <b>⭕</b>. Click an empty square to play! 👇</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C0&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C1&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C2&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C3&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-    <td align="center" width="60" height="60">⭕</td>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C5&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C6&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-    <td align="center" width="60" height="60"><a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cmove%7C7&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">⬜</a></td>
-    <td align="center" width="60" height="60">❌</td>
-  </tr>
-</table>
-
-<p align="center">🏆 Visitors <b>0</b> &nbsp;|&nbsp; 🤖 Bot <b>0</b> &nbsp;|&nbsp; 🤝 Draws <b>0</b></p>
-
-<p align="center">Recent players: <a href="https://github.com/TeJota1337">@TeJota1337</a></p>
-
-<p align="center"><sub>Stuck? <a href="https://github.com/TeJota1337/TeJota1337/issues/new?title=ttt%7Cnew&body=Just%20click%20**Create**%20below%20%E2%80%94%20no%20need%20to%20write%20anything!%0A%0AThe%20bot%20will%20make%20its%20move%20and%20update%20the%20board%20in%20about%20a%20minute.%20%E2%8F%B1%EF%B8%8F">Start a new game</a> · You need to be logged in to GitHub to play.</sub></p>
-<!-- TTT:END -->
 
 ## 📊 My contributions
 <picture>
