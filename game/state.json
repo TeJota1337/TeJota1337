@@ -4,11 +4,11 @@
     "",
     "",
     "",
+    "O",
     "",
     "",
     "",
-    "",
-    ""
+    "X"
   ],
   "stats": {
     "visitors": 0,
@@ -16,5 +16,9 @@
     "draws": 0
   },
   "lastResult": "",
-  "recent": []
+  "recent": [
+    {
+      "user": "TeJota1337"
+    }
+  ]
 }
