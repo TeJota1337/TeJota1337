@@ -8,11 +8,8 @@
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ## About me
-Greetings, adventurer! My name is Tiago, though you may call me "TJ". I am a proud UX Game Designer, currently embarking on an epic quest at PUCPR, where we’re reshaping the very foundations of how knowledge (and magic, maybe...) is wielded. The progress we’re making fills my heart with pride—this journey is one for the books.
-
-In this place, you’ll find a collection of my personal projects. They may seem humble, but each one is forged with passion and dedication, like a finely crafted sword.
-
-May your path be full of treasures and triumphs!
+My name is Tiago, but you can call me TJ.
+I am a IxD/UI/UX Game Designer and my main focus is to bring clarity and fun to the obscure world of the games.
 
 ## Portfolio
 https://tejota.notion.site/Ol-Tudo-bem-152e13a0197280249839f778687e8029
