@@ -1,0 +1,53 @@
+name: tic-tac-toe
+
+on:
+  issues:
+    types: [opened]
+
+# One move at a time, so two visitors can't overwrite each other's game
+concurrency:
+  group: tictactoe
+  cancel-in-progress: false
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    permissions:
+      contents: write
+      issues: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main # latest board, not the commit from when the issue was opened
+
+      - name: play move
+        id: game
+        run: node .github/scripts/tictactoe.js
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+
+      - name: commit board
+        if: steps.game.outputs.changed == 'true'
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md game/state.json
+          git commit -m "Tic-tac-toe move by @$ISSUE_USER"
+          git pull --rebase
+          git push
+        env:
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+
+      - name: reply and close issue
+        run: |
+          gh issue comment "$ISSUE" --body "$MESSAGE"
+          gh issue close "$ISSUE"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE: ${{ github.event.issue.number }}
+          MESSAGE: ${{ steps.game.outputs.message }}

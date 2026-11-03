@@ -1,0 +1,35 @@
+name: generate 3D contribution graph
+
+on:
+  schedule: # Run once a day (03:00 in Brazil)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: commit images
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib
+          if git commit -m "Update 3D contribution graph"; then
+            git pull --rebase
+            git push
+          fi
